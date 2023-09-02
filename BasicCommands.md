@@ -1,15 +1,13 @@
 # Task 1
 # 1. Open the home directory
-```cd ~
+```cd ~```
 
 # 2. Find the name of the folder you are in
+```
 pwd  # Output: /c/Users/Olya
-
-# 3. Create a directory named "test1" inside this folder
 mkdir test1
-
-# 4. Move to the directory "test1"
 cd test1
+```
 
 # 5. Create files named 1, 2, and 3 inside "test1"
 touch 1 2 3
