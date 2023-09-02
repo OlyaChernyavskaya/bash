@@ -9,17 +9,16 @@ mkdir test1
 cd test1
 ```
 
-# 5. Create files named 1, 2, and 3 inside "test1"
-touch 1 2 3
+ Create files named 1, 2, and 3 inside "test1"
+```touch 1 2 3```
 
-# 6. Check the contents of "test1"
-ls  # Output: 1 2 3
+ Check the contents of "test1"
+```ls  # Output: 1 2 3```
 
-# 7. Move back to the home directory
-cd ~
+```cd ~```
 
 # 8. Create a directory named "test2" inside the home directory
-mkdir test2
+```mkdir test2```
 
 # 9. Remove the directory "test2"
 rmdir test2
