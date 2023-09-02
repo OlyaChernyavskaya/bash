@@ -1,6 +1,6 @@
 # Task 1
 # 1. Open the home directory
-cd ~
+```cd ~
 
 # 2. Find the name of the folder you are in
 pwd  # Output: /c/Users/Olya
